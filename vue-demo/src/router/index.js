@@ -15,6 +15,8 @@ import Mixins from '@/components/Example/vue/Mixins'
 import Routing from '@/components/Example/vue/Routing'
 import Plugins from '@/components/Example/vue/Plugins'
 import StateManagement from '@/components/Example/vue/StateManagement'
+import Reactivity from '@/components/Example/vue/Reactivity'
+import RenderFunction from '@/components/Example/vue/RenderFunction'
 
 Vue.use(Router)
 
@@ -94,6 +96,16 @@ export default new Router({
       path: '/StateManagement',
       name: 'StateManagement',
       component: StateManagement
+    },
+    {
+      path: '/Reactivity',
+      name: 'Reactivity',
+      component: Reactivity
+    },
+    {
+      path: '/RenderFunction',
+      name: 'RenderFunction',
+      component: RenderFunction
     }
   ]
 })
