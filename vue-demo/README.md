@@ -35,3 +35,37 @@ npm run dev
 '/RenderFunction': RenderFunction.vue  // rander函数
 ```
 
+## 相关资料
+
+### babel代码编译
+
+* 配置文件.babelrc
+* [Babel入门教程](http://www.ruanyifeng.com/blog/2016/01/babel.html)
+* [Babel中文官网](http://babeljs.cn/)
+* [Babel英文官网](http://babeljs.io/)
+* [Babel中的stage-0,stage-1,stage-2,stage-3](http://www.cnblogs.com/chris-oil/p/5717544.html)
+
+
+### ESLint语法检查
+
+* 配置文件：.eslintignore, .eslintrc.js
+* [ESLint中文官网](http://eslint.cn/)
+* [ESLint英文官网](http://eslint.org/)
+* [ESLint简单操作](https://segmentfault.com/a/1190000004965396)
+* [ESLint使用入门](https://csspod.com/getting-started-with-eslint/)
+* [ESLint配置参数介绍](https://segmentfault.com/a/1190000004468428)
+* [airbnb JavaScript编码规范](https://github.com/airbnb/javascript)
+
+
+### Mocha测试框架
+
+* [mocha英文官网](https://mochajs.org/)
+* [mochawesome生成HTML的测试报告](http://adamgruber.github.io/mochawesome/)
+* [chai断言库英文官网](http://chaijs.com/)
+* [Chai.js断言库API中文文档](http://www.jianshu.com/p/f200a75a15d2)
+* [测试框架 Mocha 实例教程](http://www.ruanyifeng.com/blog/2015/12/a-mocha-tutorial-of-examples.html)
+
+
+### webpack
+
+* [Webpack 2 入门教程](https://llp0574.github.io/2016/11/29/getting-started-with-webpack2/)
